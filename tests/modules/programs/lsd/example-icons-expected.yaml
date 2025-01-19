@@ -1,0 +1,10 @@
+icons:
+  extension:
+    go: 
+    hs: 
+  filetype:
+    dir: 📂
+    file: 📄
+  name:
+    .trash: 
+    .cargo: 
